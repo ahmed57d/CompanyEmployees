@@ -21,6 +21,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompanyEmployees.Presentati
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shared", "Shared\Shared.csproj", "{D9E526D6-934D-4A3B-9C3D-163523D0AF47}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActionFilters", "ActionFilters\ActionFilters.csproj", "{CEE067B6-1AAA-4C0B-B3CE-484E764F6F8D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{D9E526D6-934D-4A3B-9C3D-163523D0AF47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9E526D6-934D-4A3B-9C3D-163523D0AF47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9E526D6-934D-4A3B-9C3D-163523D0AF47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEE067B6-1AAA-4C0B-B3CE-484E764F6F8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEE067B6-1AAA-4C0B-B3CE-484E764F6F8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEE067B6-1AAA-4C0B-B3CE-484E764F6F8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEE067B6-1AAA-4C0B-B3CE-484E764F6F8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
